@@ -1,0 +1,1 @@
+Very hacky 45 minute long project to show Link light rail departures on Tidbyt. Might make this better, eventually. The code is objectively horrible and overly-specialized.
